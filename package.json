@@ -1,0 +1,32 @@
+{
+  "name": "node-guard2",
+  "version": "1.0.0",
+  "description": "Guard is a command line tool to easily handle events on file system modifications which inspired by guard in ruby community.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartyJiang/node-guard2.git"
+  },
+  "keywords": [
+    "livereload",
+    "watch",
+    "autotest"
+  ],
+  "author": "MartyJiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartyJiang/node-guard2/issues"
+  },
+  "homepage": "https://github.com/MartyJiang/node-guard2#readme",
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.8.0",
+    "prettier": "^1.8.2"
+  },
+  "dependencies": {
+    "yargs": "^10.0.3"
+  }
+}
